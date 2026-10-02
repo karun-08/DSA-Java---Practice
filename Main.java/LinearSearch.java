@@ -10,9 +10,10 @@ for (int i = 0; i < arr.length; i++) {
         found = true;
         break;
     }
-}
+
 
 System.out.println(found);
 
 }
 }
+
